@@ -1,0 +1,26 @@
+{
+  "name": "reeftracker",
+  "version": "1.0.0",
+  "description": "An app to track your reef tank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brooks Forsyth",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^7.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bforsyth1234/reeftracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bforsyth1234/reeftracker/issues"
+  },
+  "homepage": "https://github.com/Bforsyth1234/reeftracker#readme"
+}
